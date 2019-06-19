@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tentang"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="tentang"
+        app:showAsAction="always"
+        android:onClick="tentang"/>
+
+        <item
+            android:id="@+id/it"
+            android:icon="@drawable/ic_invert_colors_black_24dp"
+            android:title="iii"
+            app:showAsAction="always">
+            <menu>
+
+                <item
+                    android:id="@+id/biru"
+                    android:icon="@drawable/blue"
+                    android:title=""
+                    android:visible="true"
+                    app:headerLayout="@dimen/activity_horizontal_margin"
+                    app:showAsAction="always" />
+
+                <item
+                    android:id="@+id/red"
+                    android:icon="@drawable/red"
+                    android:title=""
+                    android:visible="true"
+                    app:headerLayout="@dimen/activity_horizontal_margin"
+                    app:showAsAction="always" />
+                <item
+                    android:id="@+id/orange"
+                    android:icon="@drawable/orange"
+                    android:title=""
+                    android:visible="true"
+                    app:showAsAction="always" />
+                <item
+                    android:id="@+id/ungu"
+                    android:icon="@drawable/purple"
+                    android:title=""
+                    android:visible="true"
+                    app:showAsAction="always" />
+                <item
+                    android:id="@+id/hijau"
+                    android:icon="@drawable/green"
+                    android:title=""
+                    android:visible="true"
+                    app:showAsAction="always" />
+                <item
+                    android:id="@+id/pink"
+                    android:icon="@drawable/pink"
+                    android:title=""
+                    android:visible="true"
+                    app:showAsAction="always" />
+
+
+            </menu>
+
+        </item>
+
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">عَـقِـيْدَةَ الْعَوَام</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="prefs_theme_key">theme</string>
+    <string name="share">Share</string>
+
+</resources>

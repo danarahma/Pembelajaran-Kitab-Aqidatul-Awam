@@ -1,0 +1,65 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.Blue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor_blue</item>
+        <item name="colorPrimaryDark">@color/primaryColor_blue</item>
+        <item name="colorAccent">@color/primaryAccent_blue</item>
+        <item name="background">@drawable/bgblue</item>
+        <item name="buttonColor">@drawable/button_biru</item>
+        <item name="actionBarSize">36dp</item>
+
+    </style>
+    <style name="AppTheme.Red" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor_red</item>
+        <item name="colorPrimaryDark">@color/primaryColor_red</item>
+        <item name="colorAccent">@color/primaryAccent_red</item>
+        <item name="background">@drawable/bgred</item>
+        <item name="buttonColor">@drawable/button_merah</item>
+        <item name="actionBarSize">36dp</item>
+    </style>
+    <style name="AppTheme.Orange" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor_orange</item>
+        <item name="colorPrimaryDark">@color/primaryColor_orange</item>
+        <item name="colorAccent">@color/primaryAccent_orange</item>
+        <item name="background">@drawable/bgorange</item>
+        <item name="buttonColor">@drawable/button_orange</item>
+        <item name="actionBarSize">36dp</item>
+    </style>
+    <style name="AppTheme.Green" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor_green</item>
+        <item name="colorPrimaryDark">@color/primaryColor_green</item>
+        <item name="colorAccent">@color/primaryAccent_orange</item>
+        <item name="background">@drawable/bggreen</item>
+        <item name="buttonColor">@drawable/button_hijau</item>
+        <item name="actionBarSize">36dp</item>
+    </style>
+    <style name="AppTheme.Purple" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor_ungu</item>
+        <item name="colorPrimaryDark">@color/primaryColor_ungu</item>
+        <item name="colorAccent">@color/primaryAccent_pink</item>
+        <item name="background">@drawable/bgpurple</item>
+        <item name="buttonColor">@drawable/button_ungu</item>
+        <item name="actionBarSize">36dp</item>
+    </style>
+
+    <style name="AppTheme.Pink" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor_pink</item>
+        <item name="colorPrimaryDark">@color/primaryColor_pink</item>
+        <item name="colorAccent">@color/primaryAccent_pink</item>
+        <item name="background">@drawable/bgpink</item>
+        <item name="buttonColor">@drawable/button_pink</item>
+        <item name="actionBarSize">36dp</item>
+    </style>
+
+</resources>

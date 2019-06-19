@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7537b3</color>
+    <color name="colorPrimaryDark">#7537b3</color>
+    <color name="btr">#030303</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="tr">#14000303</color>
+    <color name="btn">#FC5E2E</color>
+    <color name="ungu">#7537b3</color>
+    <color name="ungutr">#127537B3</color>
+
+    <color name="primaryColor_blue">#00B8D4</color>
+    <color name="primaryColorDark_blue">#FDFEFF</color>
+    <color name="primaryAccent_blue">#E3F2FD</color>
+
+    <color name="primaryColor_red">#920929</color>
+    <color name="primaryColorDark_red">#FDFEFF</color>
+    <color name="primaryAccent_red">#FFEBEE</color>
+
+    <color name="primaryColor_orange">#FF6D00</color>
+    <color name="primaryColorDark_orange">#FDFEFF</color>
+    <color name="primaryAccent_orange">#2AFF9100</color>
+
+    <color name="primaryColor_pink">#FD3DEA</color>
+    <color name="primaryColorDark_pink">#FDFEFF</color>
+    <color name="primaryAccent_pink">#FFEBFD</color>
+
+    <color name="primaryColor_green">#64DD17</color>
+    <color name="primaryColorDark_green">#FDFEFF</color>
+    <color name="primaryAccent_green">#FFEBEE</color>
+
+    <color name="primaryColor_ungu">#AA00FF</color>
+    <color name="primaryColorDark_ungu">#FDFEFF</color>
+    <color name="primaryAccent_ungu">#FFEBEE</color>
+
+</resources>
